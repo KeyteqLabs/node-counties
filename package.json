@@ -1,0 +1,17 @@
+{
+  "name": "counties",
+  "version": "0.0.0",
+  "description": "County/state lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Raymond Julin <raymond.julin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.18.2"
+  },
+  "dependencies": {
+    "bluebird": "~1.2.1"
+  }
+}

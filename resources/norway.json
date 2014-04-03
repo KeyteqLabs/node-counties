@@ -1,0 +1,20 @@
+[
+    {"iso": "01", "name":"Østfold", "admin_center": "Sarpsborg"},
+    {"iso": "02", "name":"Akershus", "admin_center": "Oslo"},
+    {"iso": "04", "name":"Hedmark", "admin_center": "Hamar"},
+    {"iso": "05", "name":"Oppland", "admin_center": "Lillehammer"},
+    {"iso": "06", "name":"Buskerud", "admin_center": "Drammen"},
+    {"iso": "07", "name":"Vestfold", "admin_center": "Tønsberg"},
+    {"iso": "08", "name":"Telemark", "admin_center": "Skien"},
+    {"iso": "09", "name":"Aust-Agder", "admin_center": "Arendal"},
+    {"iso": "10", "name":"Vest-Agder", "admin_center": "Kristiansand"},
+    {"iso": "11", "name":"Rogaland", "admin_center": "Stavanger"},
+    {"iso": "12", "name":"Hordaland", "admin_center": "Bergen"},
+    {"iso": "14", "name":"Sogn of Fjordane", "admin_center": "Leikanger"},
+    {"iso": "15", "name":"Møre og Romsdal", "admin_center": "Molde"},
+    {"iso": "16", "name":"Sør-Trøndelag", "admin_center": "Trondheim"},
+    {"iso": "17", "name":"Nord-Trøndelag", "admin_center": "Steinkjer"},
+    {"iso": "18", "name":"Nordland", "admin_center": "Bodø"},
+    {"iso": "19", "name":"Troms", "admin_center": "Tromsø"},
+    {"iso": "20", "name":"Finnmark", "admin_center": "Vadsø"}
+]
