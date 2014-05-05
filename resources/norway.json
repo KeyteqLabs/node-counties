@@ -1,6 +1,7 @@
 [
     {"iso": "01", "name":"Østfold", "admin_center": "Sarpsborg"},
     {"iso": "02", "name":"Akershus", "admin_center": "Oslo"},
+    {"iso": "03", "name":"Oslo", "admin_center": "Oslo"},
     {"iso": "04", "name":"Hedmark", "admin_center": "Hamar"},
     {"iso": "05", "name":"Oppland", "admin_center": "Lillehammer"},
     {"iso": "06", "name":"Buskerud", "admin_center": "Drammen"},
